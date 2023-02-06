@@ -12,6 +12,7 @@ function solution(n) {
     return answer;
 }
 
+console.log(10);
 
 // 다른 사람의 풀이
 // 

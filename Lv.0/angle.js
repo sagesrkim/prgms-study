@@ -18,3 +18,5 @@ function solution(angle) {
     }
     return answer;
 }
+
+console.log(90);

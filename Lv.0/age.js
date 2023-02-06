@@ -9,3 +9,5 @@ function solution(age) {
     var answer = 2023 - age;
     return answer;
 }
+
+console.log(40);
