@@ -12,3 +12,4 @@ function solution(before, after) {
     ? 1
     : 0;
 }
+// 문자열을 배열로 바꾸고 오름차순 정렬 후 비교하기
