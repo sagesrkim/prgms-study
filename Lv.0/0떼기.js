@@ -8,6 +8,7 @@
 
 const solution = (str) => String(Number(str));
 
+// 다른 풀이
 function solution(n_str) {
   return n_str.replace(/^0+/, "");
 }
